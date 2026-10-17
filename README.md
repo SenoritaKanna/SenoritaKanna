@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm SenoritaKanna 👋
+A total coding newbie from Hong Kong 🇭🇰
 
-<!--
-**SenoritaKanna/SenoritaKanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Slowly unlocking the world of code, one commit at a time.
 
-Here are some ideas to get you started:
+### About me
+- 🌱 Brand new to coding! Currently learning how Git & GitHub work first
+- 🧩 My mission: Turn "I don’t understand" into "I made this"
+- ☕ Fueled by snacks & curiosity, debugging is future me’s battle
+- 🎯 Future plan: Build small, fun little projects once I get the basics down
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ What I plan to learn later
+Will pick up programming fundamentals and web basics step by step.
+
+### 📊 My GitHub Stats
+![SenoritaKanna's Github Stats](https://github-readme-stats.vercel.app/api?username=SenoritaKanna&show_icons=true&theme=transparent)
